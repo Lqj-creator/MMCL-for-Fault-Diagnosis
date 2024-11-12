@@ -3,3 +3,5 @@ We propose a novel semi-supervised learning framework for fault diagnosis in sce
 
 
 ![The architecture of model](https://github.com/user-attachments/assets/a323e480-ebcf-4504-afa0-55fa3300ddde)
+
+We will upload our code and processed dataset in about a month, mainly using CWRU and PHM public datasets.
